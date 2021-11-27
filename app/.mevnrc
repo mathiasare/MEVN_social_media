@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "template": "Nuxt.js",
+  "modules": [],
+  "renderingMode": "universal",
+  "deployTarget": "server",
+  "isConfigured": {
+    "client": true,
+    "server": true
+  }
+}
