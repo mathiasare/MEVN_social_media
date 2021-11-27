@@ -31,8 +31,6 @@
 
 Social media test project, used for educational purposes.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Current status
 
 Backend API endpoint is configured, MongoDB schema done.
@@ -56,9 +54,6 @@ Frontend is not started.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 * Node.js
@@ -71,17 +66,14 @@ To get a local copy up and running follow these simple example steps.
 1. Make sure you have prerequisites installed and working
 2. Clone the repo or download as zip
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Run following command
+1. Run following command <br>
    ```
    mevn serve
    ```
 2. Choose server to run server application
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
