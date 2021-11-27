@@ -17,9 +17,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -35,7 +32,7 @@ Social media test project, used for educational purposes.
 
 Backend API endpoint is configured, MongoDB schema done.
 
-Frontend is not started.
+Frontend is missing.
 
 ### Boilerplate generated with
 
@@ -58,6 +55,7 @@ Frontend is not started.
 
 * Node.js
 * npm
+* mongoDB Follow installation (for Windows) at: [](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) 
 * mevn-cli  Follow installation at: [](https://github.com/madlabsinc/mevn-cli)
  
 
@@ -65,6 +63,7 @@ Frontend is not started.
 
 1. Make sure you have prerequisites installed and working
 2. Clone the repo or download as zip
+3. Make sure that in the .env file is the correct DB URL for your MongoDB setup.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -73,7 +72,7 @@ Frontend is not started.
    ```
    mevn serve
    ```
-2. Choose server to run server application
+2. Choose **server** to run the server application.
 
 <!-- CONTACT -->
 ## Contact
