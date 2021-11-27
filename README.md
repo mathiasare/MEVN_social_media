@@ -61,7 +61,7 @@ Frontend is missing.
 
 1. Make sure you have prerequisites installed and working
 2. Clone the repo or download as zip
-3. Make sure that in the .env file is the correct DB URL for your MongoDB setup.
+3. Make sure that in the .env file has the correct DB URL for your MongoDB setup.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
