@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 
-<h3 align="center">project_title</h3>
+<h3 align="center">MEVN_social_media</h3>
 
 
 
@@ -45,8 +45,6 @@ Frontend is missing.
 * [mongoDB](https://www.mongodb.com/)
 * [Node.js](https://nodejs.org/en/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -55,8 +53,8 @@ Frontend is missing.
 
 * Node.js
 * npm
-* mongoDB Follow installation (for Windows) at: [](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) 
-* mevn-cli  Follow installation at: [](https://github.com/madlabsinc/mevn-cli)
+* mongoDB Follow installation (for Windows) at: [https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) 
+* mevn-cli  Follow installation at: [https://github.com/madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
  
 
 ### Installation
